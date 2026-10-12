@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="banner.png" width="100%" alt="Sai Harshita Gadde Portfolio">
+</div>
 # Sai Harshita Gadde
 
 ### AI/ML Engineering · Backend Development · Problem Solving
