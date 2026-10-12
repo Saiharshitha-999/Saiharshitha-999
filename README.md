@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Sai Harshita Gadde Portfolio">
+  <img src="Sai Harshita Gadde_ Build, Learn, Grow.png" alt="Sai Harshita Gadde — AI/ML and Backend Engineering" width="100%">
 </div>
 # Sai Harshita Gadde
 
